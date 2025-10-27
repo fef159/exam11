@@ -51,7 +51,7 @@ public class TypeServiceTest {
         assertEquals(TYPE_NAME, newTypeDTO.getName());
         assertEquals(DESCRIPTION, newTypeDTO.getDescription());
         assertEquals(ACTIVE, newTypeDTO.getActive());
-        System.out.println("✓ Prueba crear tipo exitosa");
+        System.out.println(" Prueba crear tipo exitosa");
     }
 
 
